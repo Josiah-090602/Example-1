@@ -18,7 +18,7 @@ public class AWTCounter extends Frame {
 	add(lblCount);
 	
 	tfCount = new TextField (count + "", 10);
-	tfCount.setEditable(true);
+	tfCount.setEditable(false);
 	add(tfCount);
 	
 	btnCount = new Button ("Count");
