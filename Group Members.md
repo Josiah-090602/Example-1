@@ -1,4 +1,4 @@
-GROUP MEMBERS
+GROUP MEMBERS 
 
 1. Josiah B. Viernes
 2. Rusty G. Gunao
